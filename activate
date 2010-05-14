@@ -1,0 +1,1 @@
+export CLASSPATH=`ls *.jar | tr '\n' ':'``ls lib/*.jar | tr '\n' ':'`
